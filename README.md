@@ -13,6 +13,6 @@ I would always very much like to hear your feedback if you visit here and think 
 |     :----:      |         :----:            |      :----:       |
 |       C#        |          C++              |     Networking    |
 |     Unity 3D    |      Unreal Engine        | Test Driven Development |
-| Performance optimization |                  | Shader Programming |
+| Performance Optimization |                  | Shader Programming |
 |    Game Design  |                           | Editor Programming |
 |                 |                           | Software Architecture |

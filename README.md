@@ -5,23 +5,14 @@
 
 I'm a game developer who strives to write performant and clean code. 
 
-I enjoy refactoring the code a lot to make it more tidy and robust.
+I enjoy refactoring the code a lot to make it tidier and robuster.
 
-I would always very much like to hear your feedback if you visit here and think some things could have been written better. :v:
+I would always very much like to hear your feedback if you visit here and think some things could have been done better. :v:
 
-#### *My specialities*
-- C#
-- Unity 3D
-- Optimizing games for mobile devices
-- Game Design
-
-#### *I’m currently working on*
-- C++
-- Unreal Engine
-
-#### *I'm interested in*
-- Networking
-- Test Driven Development
-- Shader Programming
-- Editor Programming
-- Software Architecture
+| My specialities |   I’m currently learning  | I’m interested in |
+|     :----:      |         :----:            |      :----:       |
+|       C#        |          C++              |     Networking    |
+|     Unity 3D    |      Unreal Engine        | Test Driven Development |
+| Performance optimization |                  | Shader Programming |
+|    Game Design  |                           | Editor Programming |
+|                 |                           | Software Architecture |

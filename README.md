@@ -13,13 +13,13 @@ I would always very much like to hear your feedback if you visit here and think 
 - C#
 - Unity 3D
 - Optimizing games for mobile devices
+- Game Design
 
 #### *I’m currently working on*
 - C++
 - Unreal Engine
 
 #### *I'm interested in*
-- Game Design
 - Networking
 - Test Driven Development
 - Shader Programming

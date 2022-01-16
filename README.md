@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-@Lifeforest-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Lifeforest)
 [![](https://img.shields.io/badge/-Doguscan%20Ozturk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doguscanozturk/)](https://www.linkedin.com/in/doguscanozturk/)
 
-I'm a game developer who strives to write performant and clean code. 
+I'm a game programmer who always strives to write clean, performant code and design robust, modular systems.
 
 I enjoy refactoring the code a lot to make it tidier and robuster.
 

@@ -9,10 +9,10 @@ I enjoy refactoring the code a lot to make it tidier and robuster.
 
 I would always very much like to hear your feedback if you visit here and think some things could have been done better. :v:
 
-| My specialities |   I’m currently learning  | I’m interested in |
+| My specialities |   I’m currently learning  | I’m experienced about |
 |     :----:      |         :----:            |      :----:       |
-|       C#        |          C++              |     Networking    |
-|     Unity 3D    |      Unreal Engine        | Test Driven Development |
+|       C#        |          C++              | Software Architecture |
+|     Unity 3D    |      Unreal Engine        | Editor Programming |
 | Performance Optimization |                  | Shader Programming |
-|    Game Design  |                           | Editor Programming |
-|                 |                           | Software Architecture |
+|    Game Design  |                           | Networking |
+|                 |                           | Test Driven Development |

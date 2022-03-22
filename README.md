@@ -7,7 +7,7 @@ I'm a game programmer who always strives to write clean, performant code and des
 
 I enjoy refactoring the code a lot to make it tidier and robuster.
 
-I would always very much like to hear your feedback if you visit here and think some things could have been done better. :v:
+You can find some of my small scoped projects here that I tried to reflect experience and knowledge at the time I had. I would always very much like to hear your feedback if you visit here and think some things could have been done better. :v:
 
 | My specialities |   I’m currently learning  | I’m experienced about |
 |     :----:      |         :----:            |      :----:       |
